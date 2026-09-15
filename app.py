@@ -1,4 +1,3 @@
-```python
 import os
 import re
 from io import BytesIO
@@ -1159,4 +1158,3 @@ else:
         "Upload a PDF and click **Process PDF** "
         "to build your RAG index."
     )
-```
